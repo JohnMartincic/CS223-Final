@@ -1,2 +1,2 @@
 # CS223-Final
-Final Project for CS-223 Coading in C
+Final Project for CS-223 Codeing in C
