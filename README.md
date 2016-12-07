@@ -1,8 +1,31 @@
 # CS223-Final
-Final Project for CS-223 Coding in C
+Final Project for CS-223 Coding in C at Embry-Riddle Aeronautical University in Fall 2016
 
 # Version
 1.0
+
+# Contents
+Documentation.docx -> Report on project
+
+Final Project Code Reqs -> Project code requirements
+
+Final Project Report Reqs -> Project report requirements
+
+README.md -> This file
+
+car.txt -> Same car list
+
+martincic_final_cs223.c -> c file containing project
+
+# cars.txt Structure
+file should be listed as
+    driverName carType carNumber carColor
+    
+Program will only accept four cars, but can be expanded by changing the following variables
+    AUTOCARS, MANUAL, & CARLIST
+
+Also, need to expand the player choice switch statment within the following function
+    manualRace();
 
 # Features
 Single Player Auto mode or Two player Manual mode
