@@ -19,12 +19,15 @@ martincic_final_cs223.c -> c file containing project
 
 # cars.txt Structure
 file should be listed as
+    
     driverName carType carNumber carColor
     
 Program will only accept four cars, but can be expanded by changing the following variables
+   
     AUTOCARS, MANUAL, & CARLIST
 
 Also, need to expand the player choice switch statment within the following function
+    
     manualRace();
 
 # Features
@@ -39,18 +42,21 @@ Will print results to another text file
 # How to build
 You will need a compiler 
 I used the MinGW complier
-    [MinGW] (http://www.mingw.org/)
+    
+   [MinGW] (http://www.mingw.org/)
     
 Program was buit with the CodeBlocks IDE
-    [CodeBlocks 16.01] (http://codeblocks.org/)
+    
+   [CodeBlocks 16.01] (http://codeblocks.org/)
     
 # Run time Errors?
 Is the file 'cars.txt' located in the same directory as 'martincic_final_cs223'?
 
 # Credit Due
-  [MinGW] (http://www.mingw.org/) for the compiler.
   
-  [CodeBlocks] (http://codeblock.org/) for their IDE.
+   [MinGW] (http://www.mingw.org/) for the compiler.
+  
+   [CodeBlocks] (http://codeblock.org/) for their IDE.
   
   Mark Sterling --> For bouncing ideas off of him
   
