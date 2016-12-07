@@ -5,17 +5,17 @@ Final Project for CS-223 Coding in C at Embry-Riddle Aeronautical University in 
 1.0
 
 # Contents
-Documentation.docx -> Report on project
+    Documentation.docx -> Report on project
 
-Final Project Code Reqs -> Project code requirements
+    Final Project Code Reqs -> Project code requirements
 
-Final Project Report Reqs -> Project report requirements
+    Final Project Report Reqs -> Project report requirements
 
-README.md -> This file
+    README.md -> This file
 
-car.txt -> Same car list
+    car.txt -> Same car list
 
-martincic_final_cs223.c -> c file containing project
+    martincic_final_cs223.c -> c file containing project
 
 # cars.txt Structure
 file should be listed as
@@ -41,7 +41,7 @@ Will print results to another text file
 
 # How to build
 You will need a compiler 
-I used the MinGW complier
+I used the MinGW GNCC 4.9 x32 complier (default install with codeblocks)
     
    [MinGW] (http://www.mingw.org/)
     
